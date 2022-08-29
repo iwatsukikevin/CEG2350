@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Kevin Iwatsuki
+- Email:  iwatsuki.2@wright.edu
 
 ## Part 1 Answers
 
